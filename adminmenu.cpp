@@ -173,14 +173,13 @@ void adminmenu()
 
                         
                         
-                        s.froundAverfiy();
-                        s.froundBverfiy();
-                        s.froundCverfiy();
+//                         s.froundAverfiy();
+//                         s.froundBverfiy();
+//                         s.froundCverfiy();
 
+                    s.verify();
 
-
-
-                        for (int a = 1; a <=10; a++)
+                    for (int a = 1; a <=10; a++)
                     {
                         s.sectionA(a);
                         s.sectionB(a);
@@ -189,9 +188,9 @@ void adminmenu()
 
 
 
-                        s.froundAdealloc();
-                        s.froundBdealloc();
-                        s.froundCdealloc();
+//                         s.froundAdealloc();
+//                         s.froundBdealloc();
+//                         s.froundCdealloc();
 
 
                         // ofstream st;
